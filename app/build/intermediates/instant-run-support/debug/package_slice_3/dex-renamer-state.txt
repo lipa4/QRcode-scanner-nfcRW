@@ -1,0 +1,4 @@
+#Sat Aug 12 16:19:20 CEST 2017
+base.0=/home/tomislav/Documents/Projects/BarcodeScanner/android-vision/visionSamples/barcode-reader/app/build/intermediates/transforms/dexMerger/debug/3
+renamed.0=classes.dex
+file.0=/home/tomislav/Documents/Projects/BarcodeScanner/android-vision/visionSamples/barcode-reader/app/build/intermediates/transforms/dexMerger/debug/3/classes.dex
